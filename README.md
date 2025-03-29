@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a student at Oregon State University taking CS362 - Software Enginerring II. This course covers software verification, CI/CD, and TDD.
 <!--
 This is in a comment block.
 
